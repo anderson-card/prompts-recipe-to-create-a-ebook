@@ -3,6 +3,8 @@ Projeto EBOOK Gerado por I.A.s
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
 
+Clique aqui para ler : [Ebook Anderson Cardoso] (https://github.com/anderson-card/prompts-recipe-to-create-a-ebook/blob/main/E-BOOK-%20O%20Atalho%20para%20a%20sua%20carreira%20em%20testes%20de%20softwares%20DIO.pdf)
+
 
 💻 Tecnologias utilizadas no projeto
 ChatGPT
